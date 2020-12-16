@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ODUL</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="text_about">Проект реализован благодаря поддержке гранта от Фонда сохранения и изучения родных языков народов Российской Федерации - российский государственный фонд, официально утверждённый 21 февраля 2019 года «В целях создания условий для сохранения и изучения родных языков народов Российской Федерации, являющихся национальным достоянием и историко-культурным наследием Российского государства»</string>
+    <string name="native_languages"><a href="родныеязыки.рф">www.родныеязыки.рф</a></string>
+</resources>

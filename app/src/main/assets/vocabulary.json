@@ -1,0 +1,614 @@
+{
+    "theme": {
+        "translations": [
+            {
+                "title": "АА"
+            },
+            {
+                "russian": "Голос, речь, слово",
+                "yukagirski": "ажуу"
+            },
+            {
+                "russian": "глаза",
+                "yukagirski": "аҥдьэ"
+            },
+            {
+                "russian": "рот",
+                "yukagirski": "аҥа"
+            },
+            {
+                "russian": "рыба",
+                "yukagirski": "анил"
+            },
+            {
+                "title": "Аа, аа"
+            },
+            {
+                "russian": "делает",
+                "yukagirski": "аам"
+            },
+            {
+                "russian": "олень домашний",
+                "yukagirski": "аасьэ"
+            },
+            {
+                "title": "ИИ, ии"
+            },
+            {
+                "russian": "шьет",
+                "yukagirski": "иидэм"
+            },
+            {
+                "russian": "один",
+                "yukagirski": "иркиэй"
+            },
+            {
+                "russian": "четыре",
+                "yukagirski": "илэклоой"
+            },
+            {
+                "russian": "ветер",
+                "yukagirski": "илэйэ"
+            },
+            {
+                "title": "Йй"
+            },
+            {
+                "russian": "вечер",
+                "yukagirski": "йоуло"
+            },
+            {
+                "russian": "голова",
+                "yukagirski": "йоо"
+            },
+            {
+                "russian": "лоб",
+                "yukagirski": "Йоон кисьил"
+            },
+            {
+                "russian": "шея",
+                "yukagirski": "йомил"
+            },
+            {
+                "russian": "нос",
+                "yukagirski": "йоҕул"
+            },
+            {
+                "russian": "белка",
+                "yukagirski": "йододьубэ"
+            },
+            {
+                "russian": "маленький",
+                "yukagirski": "йуукоой"
+            },
+            {
+                "russian": "лошадь",
+                "yukagirski": "йахадаасьэ"
+            },
+            {
+                "russian": "гусь",
+                "yukagirski": "йаҥрэ"
+            },
+            {
+                "russian": "клюв",
+                "yukagirski": "йоҥжаа"
+            },
+            {
+                "russian": "лебедь",
+                "yukagirski": "йумусьумэ"
+            },
+            {
+                "russian": "три",
+                "yukagirski": "йаалоой"
+            },
+            {
+                "russian": "поет",
+                "yukagirski": "йахтэй"
+            },
+            {
+                "russian": "солнце",
+                "yukagirski": "йэльоодьэ"
+            },
+            {
+                "russian": "замерз",
+                "yukagirski": "йархаа"
+            },
+            {
+                "russian": "лед",
+                "yukagirski": "йархэ"
+            },
+            {
+                "title": "Кк"
+            },
+            {
+                "russian": "друг",
+                "yukagirski": "кэмнэ"
+            },
+            {
+                "russian": "дал",
+                "yukagirski": "кэйм"
+            },
+            {
+                "russian": "пришли, приехали",
+                "yukagirski": "кэлҥи"
+            },
+            {
+                "russian": "кулик",
+                "yukagirski": "кулдэркии"
+            },
+            {
+                "russian": "журавль",
+                "yukagirski": "курчэц"
+            },
+            {
+                "russian": "десять",
+                "yukagirski": "кунильоой"
+            },
+            {
+                "russian": "девять",
+                "yukagirski": "куниркильдьоой"
+            },
+            {
+                "russian": "учусь",
+                "yukagirski": "кисьэйэ"
+            },
+            {
+                "russian": "брусника",
+                "yukagirski": "кэйлэбэйдии"
+            },
+            {
+                "russian": "дал",
+                "yukagirski": "кэйм"
+            },
+            {
+                "russian": "клюква",
+                "yukagirski": "курчэҥ лэбэйдии"
+            },
+            {
+                "russian": "красный",
+                "yukagirski": "кэйлэньи"
+            },
+            {
+                "title": "Лл"
+            },
+            {
+                "russian": "кушает",
+                "yukagirski": "лэгум"
+            },
+            {
+                "russian": "танцует",
+                "yukagirski": "лоҥдоой"
+            },
+            {
+                "russian": "танец",
+                "yukagirski": "лоҥдо"
+            },
+            {
+                "russian": "знаю",
+                "yukagirski": "лэйдии"
+            },
+            {
+                "russian": "ягода",
+                "yukagirski": "лэбэйдии"
+            },
+            {
+                "russian": "земля",
+                "yukagirski": "лэбиэ"
+            },
+            {
+                "title": "Мм"
+            },
+            {
+                "russian": "волосы",
+                "yukagirski": "майлэ"
+            },
+            {
+                "russian": "медведь",
+                "yukagirski": "мээмээ"
+            },
+            {
+                "russian": "сидит, живет",
+                "yukagirski": "модой"
+            },
+            {
+                "russian": "сказал",
+                "yukagirski": "мони"
+            },
+            {
+                "russian": "сова",
+                "yukagirski": "мошолупкаа"
+            },
+            {
+                "russian": "шесть",
+                "yukagirski": "малҕалоой"
+            },
+            {
+                "russian": "восемь",
+                "yukagirski": "малҕилэклоой"
+            },
+            {
+                "russian": "я",
+                "yukagirski": "мэт"
+            },
+            {
+                "russian": "мы",
+                "yukagirski": "мит"
+            },
+            {
+                "title": "Нн"
+            },
+            {
+                "russian": "рука",
+                "yukagirski": "нугэн"
+            },
+            {
+                "russian": "нога",
+                "yukagirski": "нойл"
+            },
+            {
+                "russian": "одежда",
+                "yukagirski": "ниэр"
+            },
+            {
+                "russian": "дом",
+                "yukagirski": "нумэ"
+            },
+            {
+                "russian": "куропатка",
+                "yukagirski": "ньатлэбиэ"
+            },
+            {
+                "russian": "Иван-чай ",
+                "yukagirski": "нэнгэжии ульэгэ"
+            },
+            {
+                "russian": "птица",
+                "yukagirski": "нодо"
+            },
+            {
+                "title": "Нь нь"
+            },
+            {
+                "russian": "год",
+                "yukagirski": "ньэмолҕил"
+            },
+            {
+                "russian": "имя",
+                "yukagirski": "ньуу"
+            },
+            {
+                "russian": "лицо",
+                "yukagirski": "ньаасьэ"
+            },
+            {
+                "russian": "пять",
+                "yukagirski": "ньаҕанбоой"
+            },
+            {
+                "russian": "синий",
+                "yukagirski": "ньоҥоой"
+            },
+            {
+                "russian": "осень",
+                "yukagirski": "ньаадэ"
+            },
+            {
+                "title": "Пп"
+            },
+            {
+                "russian": "Старшая сестра",
+                "yukagirski": "паабаа"
+            },
+            {
+                "russian": "день",
+                "yukagirski": "подьорхо"
+            },
+            {
+                "russian": "щеки",
+                "yukagirski": "пиэйэ"
+            },
+            {
+                "title": "Оо"
+            },
+            {
+                "russian": "хорошо",
+                "yukagirski": "омось"
+            },
+            {
+                "russian": "язык (орган)",
+                "yukagirski": "онор"
+            },
+            {
+                "russian": "юкагир",
+                "yukagirski": "одул"
+            },
+            {
+                "russian": "Юкагирский язык",
+                "yukagirski": "Одул ажуу"
+            },
+            {
+                "russian": "голубика",
+                "yukagirski": "Одул лэбэйдии"
+            },
+            {
+                "title": "Оо, оо"
+            },
+            {
+                "russian": "вода",
+                "yukagirski": "оожии"
+            },
+            {
+                "russian": "пей",
+                "yukagirski": "оожэк"
+            },
+            {
+                "russian": "утка",
+                "yukagirski": "оожиинодо"
+            },
+            {
+                "title": "Өө"
+            },
+            {
+                "russian": "лиственница",
+                "yukagirski": "Өнмиэдиэ"
+            },
+            {
+                "title": "Тт"
+            },
+            {
+                "russian": "зубы",
+                "yukagirski": "тодии"
+            },
+            {
+                "russian": "горло",
+                "yukagirski": "тунмул"
+            },
+            {
+                "russian": "дикий олень",
+                "yukagirski": "толоу"
+            },
+            {
+                "russian": "собака",
+                "yukagirski": "тоукэ"
+            },
+            {
+                "russian": "ты",
+                "yukagirski": "тэт"
+            },
+            {
+                "russian": "вы",
+                "yukagirski": "тит"
+            },
+            {
+                "russian": "они",
+                "yukagirski": "титтэл"
+            },
+            {
+                "russian": "он",
+                "yukagirski": "тудэл"
+            },
+            {
+                "russian": "пижма",
+                "yukagirski": "тоукэдаримэл"
+            },
+            {
+                "russian": "дождь",
+                "yukagirski": "тибо"
+            },
+            {
+                "title": "Уу"
+            },
+            {
+                "russian": "утро",
+                "yukagirski": "угуйэл"
+            },
+            {
+                "russian": "ухо",
+                "yukagirski": "унэмэ"
+            },
+            {
+                "russian": "работает",
+                "yukagirski": "уйиись"
+            },
+            {
+                "russian": "река",
+                "yukagirski": "унуҥ"
+            },
+            {
+                "russian": "рог",
+                "yukagirski": "унмут"
+            },
+            {
+                "russian": "ноготь, коготь ",
+                "yukagirski": "удьил"
+            },
+            {
+                "russian": "трава, растение",
+                "yukagirski": "ульэгэ"
+            },
+            {
+                "russian": "выросла, вышла",
+                "yukagirski": "укэсь"
+            },
+            {
+                "russian": "тополь",
+                "yukagirski": "угурчэраа"
+            },
+            {
+                "russian": "лыжи",
+                "yukagirski": "угурчэ"
+            },
+            {
+                "title": "Уө"
+            },
+            {
+                "russian": "ребенок",
+                "yukagirski": "уө"
+            },
+            {
+                "title": "Хх"
+            },
+            {
+                "russian": "охотник",
+                "yukagirski": "ханичэ"
+            },
+            {
+                "russian": "дедушка",
+                "yukagirski": "хаахаа"
+            },
+            {
+                "russian": "орел",
+                "yukagirski": "ханьил"
+            },
+            {
+                "russian": "гагара",
+                "yukagirski": "хаҕиэл"
+            },
+            {
+                "russian": "идет",
+                "yukagirski": "хони"
+            },
+            {
+                "title": "Чч"
+            },
+            {
+                "russian": "старший брат",
+                "yukagirski": "чаачаа"
+            },
+            {
+                "russian": "большой",
+                "yukagirski": "чомоой"
+            },
+            {
+                "russian": "печка",
+                "yukagirski": "чибаль"
+            },
+            {
+                "russian": "лось",
+                "yukagirski": "чомоолбэн"
+            },
+            {
+                "russian": "зима, холод",
+                "yukagirski": "чиэдьэ"
+            },
+            {
+                "russian": "бурундук",
+                "yukagirski": "чугурубиэн"
+            },
+            {
+                "russian": "быстро",
+                "yukagirski": "чугоон"
+            },
+            {
+                "russian": "заяц",
+                "yukagirski": "чолҕооро"
+            },
+            {
+                "russian": "море",
+                "yukagirski": "чобул"
+            },
+            {
+                "russian": "читает",
+                "yukagirski": "чуҥум"
+            },
+            {
+                "title": "Шш"
+            },
+            {
+                "russian": "человек",
+                "yukagirski": "шоромо"
+            },
+            {
+                "russian": "семья, родственники",
+                "yukagirski": "шоромоньулнэ"
+            },
+            {
+                "russian": "дверь",
+                "yukagirski": "шашпэдаҥиль"
+            },
+            {
+                "russian": "серый",
+                "yukagirski": "шөйбэй"
+            },
+            {
+                "russian": "лиса",
+                "yukagirski": "шахалэ"
+            },
+            {
+                "russian": "желтый цвет",
+                "yukagirski": "шахалэньи"
+            },
+            {
+                "russian": "дерево",
+                "yukagirski": "шаал"
+            },
+            {
+                "russian": "мышь",
+                "yukagirski": "шөйльбул"
+            },
+            {
+                "russian": "дятел",
+                "yukagirski": "шолнаа"
+            },
+            {
+                "russian": "цвет",
+                "yukagirski": "шөрилэ"
+            },
+            {
+                "russian": "расцвел",
+                "yukagirski": "шөрилэдэсь"
+            },
+            {
+                "russian": "шиповник",
+                "yukagirski": "шибисьэ"
+            },
+            {
+                "russian": "наст",
+                "yukagirski": "шилльэ"
+            },
+            {
+                "russian": "вторая весна",
+                "yukagirski": "шилльэмэ"
+            },
+            {
+                "russian": "третья весна",
+                "yukagirski": "шоҥдьилльиэ"
+            },
+            {
+                "title": "Ээ"
+            },
+            {
+                "russian": "мама",
+                "yukagirski": "эмэй"
+            },
+            {
+                "russian": "папа",
+                "yukagirski": "эсьиэ"
+            },
+            {
+                "russian": "бабушка",
+                "yukagirski": "эпиэ"
+            },
+            {
+                "russian": "младший брат, младшая сестра",
+                "yukagirski": "эмдьэ"
+            },
+            {
+                "russian": "лодка",
+                "yukagirski": "эксьиль"
+            },
+            {
+                "russian": "ходит",
+                "yukagirski": "эйрэй"
+            },
+            {
+                "russian": "черный",
+                "yukagirski": "эмбэй"
+            },
+            {
+                "russian": "просторный",
+                "yukagirski": "эйлоой"
+            }
+        ]
+    }
+}

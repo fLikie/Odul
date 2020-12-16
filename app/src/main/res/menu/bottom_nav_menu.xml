@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_book"
+        android:title="Словарь" />
+
+    <item
+        android:id="@+id/navigation_razgovornik"
+        android:icon="@drawable/ic_mic"
+        android:title="Разговорник" />
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_group_6"
+        android:title="О проекте" />
+
+</menu>
