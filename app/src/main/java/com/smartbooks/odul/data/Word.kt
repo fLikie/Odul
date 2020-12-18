@@ -1,4 +1,4 @@
-package com.example.ukagirdictionary.data
+package com.smartbooks.odul.data
 
 data class Word(
         val title: String,

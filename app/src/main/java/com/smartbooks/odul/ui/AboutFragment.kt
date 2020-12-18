@@ -1,11 +1,11 @@
-package com.example.ukagirdictionary.ui
+package com.smartbooks.odul.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.ukagirdictionary.R
+import com.smartbooks.odul.R
 
 class AboutFragment : Fragment() {
 

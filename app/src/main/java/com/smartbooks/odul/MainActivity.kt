@@ -1,4 +1,4 @@
-package com.example.ukagirdictionary
+package com.smartbooks.odul
 
 import android.os.Bundle
 import android.widget.TextView
@@ -6,7 +6,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.ukagirdictionary.ui.PhrasebookFragment
+import com.smartbooks.odul.ui.PhrasebookFragment
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,17 +1,15 @@
-package com.example.ukagirdictionary.ui
+package com.smartbooks.odul.ui
 
 import android.content.res.AssetFileDescriptor
 import android.media.MediaPlayer
-import android.provider.MediaStore
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.ukagirdictionary.R
-import com.example.ukagirdictionary.data.Word
-import org.w3c.dom.Text
+import com.smartbooks.odul.R
+import com.smartbooks.odul.data.Word
 
 class WordsAdapter(private val data: List<Word>) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
     

@@ -1,19 +1,15 @@
-package com.example.ukagirdictionary.ui
+package com.smartbooks.odul.ui
 
 import android.os.Bundle
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.ukagirdictionary.MainActivity
-import com.example.ukagirdictionary.R
-import com.example.ukagirdictionary.data.Data
-import com.example.ukagirdictionary.utils.JsonUtil
-import com.google.gson.Gson
-import java.lang.Exception
+import com.smartbooks.odul.MainActivity
+import com.smartbooks.odul.R
+import com.smartbooks.odul.utils.JsonUtil
 
 class VocabularyFragment : Fragment() {
 

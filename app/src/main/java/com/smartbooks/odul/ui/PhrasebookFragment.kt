@@ -1,4 +1,4 @@
-package com.example.ukagirdictionary.ui
+package com.smartbooks.odul.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,9 +7,9 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.ukagirdictionary.MainActivity
-import com.example.ukagirdictionary.R
-import com.example.ukagirdictionary.utils.JsonUtil
+import com.smartbooks.odul.MainActivity
+import com.smartbooks.odul.R
+import com.smartbooks.odul.utils.JsonUtil
 
 class PhrasebookFragment : Fragment() {
 

@@ -1,4 +1,4 @@
-package com.example.ukagirdictionary
+package com.smartbooks.odul
 
 import org.junit.Test
 

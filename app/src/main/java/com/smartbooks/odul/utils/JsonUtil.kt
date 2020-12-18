@@ -1,8 +1,8 @@
-package com.example.ukagirdictionary.utils
+package com.smartbooks.odul.utils
 
 import android.app.Activity
 import android.util.Log
-import com.example.ukagirdictionary.data.Data
+import com.smartbooks.odul.data.Data
 import com.google.gson.Gson
 import java.lang.Exception
 

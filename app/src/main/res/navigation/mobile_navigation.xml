@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.example.ukagirdictionary.ui.VocabularyFragment"
+        android:name="com.smartbooks.odul.ui.VocabularyFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_razgovornik"
-        android:name="com.example.ukagirdictionary.ui.PhrasebookFragment"
+        android:name="com.smartbooks.odul.ui.PhrasebookFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_about"
-        android:name="com.example.ukagirdictionary.ui.AboutFragment"
+        android:name="com.smartbooks.odul.ui.AboutFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_about" />
 
