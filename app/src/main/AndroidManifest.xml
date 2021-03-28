@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UkagirDictionary">
         <activity
-            android:name="com.smartbooks.smartbooks.odul.MainActivity"
+            android:name="com.smartbooks.odul.MainActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
